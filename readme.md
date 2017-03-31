@@ -1,7 +1,7 @@
 ## Webkit2 Simple Starter
 
 #### What's included you ask?
-* .babelrc - Ready for all you configuration needs.
+* .babelrc - Ready for all you ES6/7/8/etc configuration needs.
 * .gitignore - Protecting the world from all the yucky files no one wants to see.
 * package.json - Your Push to Start file!
 * readme.md - This very file!!
